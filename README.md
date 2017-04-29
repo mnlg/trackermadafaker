@@ -8,7 +8,7 @@ Just download the trackermadafaker script and copy it to your BitBar plugins fol
 
 ## Use
 
-First you'll need to add some projects to track, add them in the projects file via the options menu `(:angry: -> Options -> Edit projects file)`. Add one project per line.
+First you'll need to add some projects to track, add them in the projects file via the options menu `(Yo bitch! > Options > Edit projects file)`. Add one project per line.
 
 ![TrackerMadafaker](http://i.imgur.com/Tee97hU.png)
 
